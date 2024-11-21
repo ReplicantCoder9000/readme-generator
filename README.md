@@ -14,6 +14,10 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [Video Demo](#video)
+  - [Technologies Used](#technologies)
+  - [FAQ](#faq)
+  - [Code Source](#codesource)
   
   ## Installation
   
