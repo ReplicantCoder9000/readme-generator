@@ -48,7 +48,7 @@
   
   ## Walkthrough Video
   
-  [Watch the walkthrough video here]([https://www.youtube.com/watch?v=your-walkth](https://youtu.be/c081iRKEBP8))
+ https://youtu.be/c081iRKEBP8
 
   ## Technologies Used
 
