@@ -59,9 +59,11 @@
   ## FAQ
 
   **Q:** How do I install ReadMePro?
+  
   **A:** Run `npm install` in your project directory to install the necessary dependencies.
 
   **Q:** Can I customize the generated README?
+  
   **A:** Yes! Simply follow the prompts and input your project-specific details.
 
   ## Code Source
@@ -69,7 +71,10 @@
   Code Source
 
   All source code for this project is located in the following files:
-	 - index.js: Main application logic and user prompts.
-	 - generateMarkdown.js: Functions to format user input into Markdown.
-	 - package.json: Project dependencies and scripts.
+	 
+  - index.js: Main application logic and user prompts.
+	 
+  - generateMarkdown.js: Functions to format user input into Markdown.
+
+  - package.json: Project dependencies and scripts.
   
